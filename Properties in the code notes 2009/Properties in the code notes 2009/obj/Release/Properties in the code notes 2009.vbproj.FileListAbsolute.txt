@@ -1,0 +1,10 @@
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Release\Properties in the code notes 2009.exe
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Release\Properties in the code notes 2009.pdb
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Release\Properties in the code notes 2009.xml
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Release\Properties_in_the_code_notes.Form1.resources
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Release\Properties_in_the_code_notes.Resources.resources
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Release\Properties in the code notes 2009.vbproj.GenerateResource.Cache
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Release\Properties in the code notes 2009.exe
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Release\Properties in the code notes 2009.xml
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Release\Properties in the code notes 2009.pdb
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Release\Properties in the code notes 2009.vbprojResolveAssemblyReference.cache

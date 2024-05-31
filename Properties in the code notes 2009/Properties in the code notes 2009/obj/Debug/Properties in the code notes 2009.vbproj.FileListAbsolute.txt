@@ -1,0 +1,73 @@
+U:\Courses\Programming 1\02 Properties\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.exe
+U:\Courses\Programming 1\02 Properties\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.pdb
+U:\Courses\Programming 1\02 Properties\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.xml
+U:\Courses\Programming 1\02 Properties\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties_in_the_code_notes.Form1.resources
+U:\Courses\Programming 1\02 Properties\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties_in_the_code_notes.Resources.resources
+U:\Courses\Programming 1\02 Properties\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.exe
+U:\Courses\Programming 1\02 Properties\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.xml
+U:\Courses\Programming 1\02 Properties\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.pdb
+U:\Courses\Programming 1\02 Properties\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.vbproj.GenerateResource.Cache
+C:\Users\foxrw\OneDrive - Midland Public Schools\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.exe
+C:\Users\foxrw\OneDrive - Midland Public Schools\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.xml
+C:\Users\foxrw\OneDrive - Midland Public Schools\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.pdb
+C:\Users\foxrw\OneDrive - Midland Public Schools\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.exe
+C:\Users\foxrw\OneDrive - Midland Public Schools\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.pdb
+C:\Users\foxrw\OneDrive - Midland Public Schools\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.xml
+C:\Users\foxrw\OneDrive - Midland Public Schools\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties_in_the_code_notes.Form1.resources
+C:\Users\foxrw\OneDrive - Midland Public Schools\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties_in_the_code_notes.Resources.resources
+C:\Users\foxrw\OneDrive - Midland Public Schools\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.vbproj.GenerateResource.Cache
+C:\Users\foxrw\Google Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.exe
+C:\Users\foxrw\Google Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.xml
+C:\Users\foxrw\Google Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.pdb
+C:\Users\foxrw\Google Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.exe
+C:\Users\foxrw\Google Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.pdb
+C:\Users\foxrw\Google Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.xml
+C:\Users\foxrw\Google Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties_in_the_code_notes.Form1.resources
+C:\Users\foxrw\Google Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties_in_the_code_notes.Resources.resources
+C:\Users\foxrw\Google Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.vbproj.GenerateResource.Cache
+C:\Users\foxrw\Google Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.vbprojResolveAssemblyReference.cache
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.exe
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.pdb
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.xml
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties_in_the_code_notes.Form1.resources
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties_in_the_code_notes.Resources.resources
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.vbproj.GenerateResource.Cache
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.exe
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.xml
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.pdb
+G:\My Drive\Courses\CP1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.vbproj.CoreCompileInputs.cache
+C:\Users\foxrw\Desktop\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.exe
+C:\Users\foxrw\Desktop\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.pdb
+C:\Users\foxrw\Desktop\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.xml
+C:\Users\foxrw\Desktop\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties_in_the_code_notes.Form1.resources
+C:\Users\foxrw\Desktop\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties_in_the_code_notes.Resources.resources
+C:\Users\foxrw\Desktop\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.vbproj.GenerateResource.Cache
+C:\Users\foxrw\Desktop\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.vbproj.CoreCompileInputs.cache
+C:\Users\foxrw\Desktop\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.exe
+C:\Users\foxrw\Desktop\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.xml
+C:\Users\foxrw\Desktop\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.pdb
+C:\Users\foxrw\Desktop\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.vbprojAssemblyReference.cache
+G:\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.exe
+G:\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.pdb
+G:\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.xml
+G:\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties_in_the_code_notes.Form1.resources
+G:\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties_in_the_code_notes.Resources.resources
+G:\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.vbproj.GenerateResource.cache
+G:\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.vbproj.CoreCompileInputs.cache
+G:\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.exe
+G:\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.xml
+G:\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.pdb
+G:\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.exe.config
+G:\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.vbproj.AssemblyReference.cache
+C:\Users\foxrw\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.exe.config
+C:\Users\foxrw\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.exe
+C:\Users\foxrw\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.pdb
+C:\Users\foxrw\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\bin\Debug\Properties in the code notes 2009.xml
+C:\Users\foxrw\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.vbproj.AssemblyReference.cache
+C:\Users\foxrw\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties_in_the_code_notes.Form1.resources
+C:\Users\foxrw\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties_in_the_code_notes.Resources.resources
+C:\Users\foxrw\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.vbproj.GenerateResource.cache
+C:\Users\foxrw\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.vbproj.CoreCompileInputs.cache
+C:\Users\foxrw\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.exe
+C:\Users\foxrw\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.xml
+C:\Users\foxrw\My Drive\Courses\CS1\01 Properties in the Code\Properties in the code notes 2009\Properties in the code notes 2009\obj\Debug\Properties in the code notes 2009.pdb
